@@ -2,7 +2,7 @@
 Scales 
 
 ## Concept:
-A web applcation that encourages users to listen to artists full albums and create custom playlists. 
+A web applcation that encourages users to listen to artists full albums and create custom playlists as well as informs them of when they're favorite artists are on tour.
 
 ## Wireframes:
 ![Screen Shot 2022-05-01 at 6 09 22 PM](https://user-images.githubusercontent.com/55766816/166173079-e73263f0-e86a-428b-aa0f-6ca675c5e338.png)
